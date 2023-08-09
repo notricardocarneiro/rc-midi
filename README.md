@@ -5,6 +5,7 @@ O projeto teve como objetivo praticar JavaScript, tornando a página dinâmica e
 
 <img width="700" alt="alura-midi" src="https://github.com/notricardocarneiro/rc-midi/blob/main/images/rcmidi.png">
 
+Link: https://rc-midi-notricardocarneiro.vercel.app/
 ## Feito por:
 
 **Ricardo Carneiro**
