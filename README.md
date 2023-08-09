@@ -9,6 +9,6 @@ O projeto teve como objetivo praticar JavaScript, tornando a página dinâmica e
 
 **Ricardo Carneiro**
 
-Linkedin: [https://www.linkedin.com/in/ricardo-carneiro-763666270/]
+Linkedin: https://www.linkedin.com/in/ricardo-carneiro-763666270/
 
 *Página clone desenvolvida como resultado de um curso na Alura.*
